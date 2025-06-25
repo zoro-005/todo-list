@@ -1,5 +1,3 @@
-# .\env\Scripts\activate.ps1 activation line for venv
-
 from flask import Flask, render_template, url_for, request, redirect
 from flask_sqlalchemy import SQLAlchemy
 from datetime import datetime
